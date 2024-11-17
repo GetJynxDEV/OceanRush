@@ -1,4 +1,17 @@
 # OceanRush
-Ocean Rush is a 2D Side Scroller Game wherein you must dodge all the Corals and Jellyfish and attain the Highest Score
 
-Engine Used is Unity 2022.3.51f1
+## Project Name
+Ocean Rush
+
+## Team Name
+Dynamic Five
+
+## Team Members ( Discord )
+- Santiago, Marc @santi_thesis
+- Soriano, Elder @ano9552
+- Enciso, Shann Stephen @getjynx
+- Ursula, Diana @skyy1531
+- Araya, Jyril @jyril
+
+## Description
+Ocean Rush is a 2D Pixel Side Scroller Game
