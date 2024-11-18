@@ -61,8 +61,3 @@ Our Game shows a scoring based system to engage the two players on competing and
 
 #### **4. Testing and Optimization
 -  Testing to see problems or errors at the code
-
-<br>
-
-# GITHUB RESPOSITORY
-- [ Public Respository Here! ] ()
